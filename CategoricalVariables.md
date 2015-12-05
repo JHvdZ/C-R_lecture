@@ -1,13 +1,8 @@
 #Association between categorical variables
 1. Two categorical variables  
-  1.1  
-    *  
-    *  
-    *  
-  1.2
-  1.3
-  
-2. 
+2. One categorical and one numeric variable
+3. Two numeric variables  
+4. 
 
 
 
